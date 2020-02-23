@@ -31,7 +31,7 @@ end
 
 def read_from_hash(hash, key)
   # return the correct value using the hash and key parameter
-  hash.fetch(key[,1])
+  hash.fetch(key[1])
   end
 end
 
