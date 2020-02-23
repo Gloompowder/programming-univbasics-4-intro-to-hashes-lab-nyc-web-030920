@@ -45,5 +45,3 @@ def update_counting_hash(hash, key)
 # end
 # return hash
 # end
-
-hash.fetch(key) [|key|]
